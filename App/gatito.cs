@@ -17,7 +17,7 @@ namespace App
 
         public void correr()
         {
-            Console.WriteLine("Estoy corriendo a 100k/hrs");
+            Console.WriteLine("Estoy corriendo a 100 km/s");
             Console.ReadKey();
         }
 
