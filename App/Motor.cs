@@ -16,6 +16,7 @@ namespace App
         public void Detener()
         {
             Console.WriteLine("El motor se detubo...");
+            Console.ReadKey();
         }
     }
 }

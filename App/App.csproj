@@ -46,7 +46,6 @@
     <Compile Include="Luces.cs" />
     <Compile Include="IMotor.cs" />
     <Compile Include="Motor.cs" />
-    <Compile Include="Vehiculo.cs" />
     <Compile Include="Gatito.cs" />
     <Compile Include="IGatito.cs" />
     <Compile Include="Program.cs" />

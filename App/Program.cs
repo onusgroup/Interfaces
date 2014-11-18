@@ -34,7 +34,7 @@ namespace App
             //  Una interfaz no proporciona implementaciones de los miembros que define sino simplemente 
             //  especifica los miembros que deben ser suministrados por clases o estructuras que implementan la interfaz
             //  y en en conclusión una interfaz únicamente dice QUÉ acciones se van a realizar, pero no CÓMO se realizarán.
-
+            Console.WriteLine("\nInterfaces Motor\n");
             IMotor motor = new Motor();
             ILuces luces = new Luces();
             motor.Encender();
